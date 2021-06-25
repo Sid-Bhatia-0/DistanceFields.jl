@@ -1,0 +1,13 @@
+name = "DistanceFields"
+uuid = "cbc00ff9-31b5-4f80-b2d7-f36b47fd6865"
+authors = ["Siddharth Bhatia <sidb60200@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
