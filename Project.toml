@@ -1,7 +1,7 @@
 name = "DistanceFields"
 uuid = "cbc00ff9-31b5-4f80-b2d7-f36b47fd6865"
 authors = ["Siddharth Bhatia <sidb60200@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.0.1"
 
 [compat]
 julia = "1"
